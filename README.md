@@ -1,6 +1,8 @@
-# afni_refacer
+afni_refacer
+==============
  
 afni_refacer for refacing T1w (and/or T2w) image 
+
 
 1. Docker image \
  The docker/singularity image can be pulled from   
